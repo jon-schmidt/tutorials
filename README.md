@@ -3,9 +3,9 @@
 ## things to learn
 
 ### go
-[ ] using libraries
-[ ] http server
-[ ] api/app
+- [ ] using libraries
+- [ ] http server
+- [ ] api/app
 
 specific libraries:
 - [ ] echo/armor
@@ -13,12 +13,12 @@ specific libraries:
 ### jspm
 
 ### pm2
-[ ] launching a complex node.js app...
+- [ ] launching a complex node.js app...
 
 ### python
-[ ] using libraries
-[ ] http server
-[ ] api/app
+- [ ] using libraries
+- [ ] http server
+- [ ] api/app
 
 specific libraries:
 - [ ] django
