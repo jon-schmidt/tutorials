@@ -16,4 +16,4 @@ pre and post hooks.
 References
 0. (https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 0. [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-0. [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.vwxsunpvg)
+0. [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
