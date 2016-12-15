@@ -8,6 +8,9 @@
 ##docker
 - [ ] docker compose
 
+##flocker
+- [ ] set up a simple database whatever.
+
 ##go
 - [ ] language basics
 - [ ] using libraries
@@ -48,6 +51,9 @@
 
 - **specific libraries:**
   - [ ] django
+
+##redis
+- [ ] simple caching example
 
 ##ruby
 
